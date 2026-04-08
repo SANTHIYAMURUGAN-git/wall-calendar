@@ -345,7 +345,7 @@ export default function WallCalendar() {
                   }
 
                   // Dim prev/next month overflow days shown as null — only real days shown
-                  const isCurrentMonthDay = true;
+                  
 
                   return (
                     <div
