@@ -8,18 +8,30 @@ const MONTH_NAMES = [
 const DAY_NAMES = ['MON','TUE','WED','THU','FRI','SAT','SUN'];
 
 const MONTH_IMAGES = [
+  // January - snowy mountain climber (like your reference)
+  'https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&q=80',
+  // February - misty forest path
+  'https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80',
+  // March - spring cherry blossoms
+  'https://images.unsplash.com/photo-1522748906645-95d8adfd52c7?w=800&q=80',
+  // April - green hills adventure
+  'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80',
+  // May - mountain sunrise hiker
+  'https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=800&q=80',
+  // June - ocean cliff sunset
+  'https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&q=80',
+  // July - summer peak climber
+  'https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=800&q=80',
+  // August - rocky mountain trail
+  'https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&q=80',
+  // September - autumn forest hiker
+  'https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80',
+  // October - foggy mountain road
+  'https://images.unsplash.com/photo-1476673160081-cf065607f449?w=800&q=80',
+  // November - snowy pine forest
+  'https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&q=80',
+  // December - winter mountain peak
   'https://images.unsplash.com/photo-1418985991508-e47386d96a71?w=800&q=80',
-  'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=800&q=80',
-  'https://images.unsplash.com/photo-1490750967868-88df5691cc8a?w=800&q=80',
-  'https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?w=800&q=80',
-  'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=800&q=80',
-  'https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=800&q=80',
-  'https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?w=800&q=80',
-  'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80',
-  'https://images.unsplash.com/photo-1418985991508-e47386d96a71?w=800&q=80',
-  'https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?w=800&q=80',
-  'https://images.unsplash.com/photo-1418985991508-e47386d96a71?w=800&q=80',
-  'https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=800&q=80',
 ];
 
 const HOLIDAYS = {
